@@ -1,7 +1,7 @@
 
 
 ### Software Engineer  
-## **Hey 👋, I'm Ipaye Babatunde a full-time Software-engineer / developer 👨‍💻 i love what i do 🚀**  
+## **Hello 👋, I'm Ipaye Babatunde a full-time Software-engineer / developer 👨‍💻 i love what i do 🚀**  
   
 
 <a href="https://twitter.com/engr_ipaye" target="_blank">
@@ -36,7 +36,7 @@ I specialize in spring boot, testing and software development. I love designing 
 <table><tr><td valign="top" width="50%">
 
 - 🔭 I’m currently working on [Employee System Management(Capstone Project)]
-https://github.com/IpayeBabatunde/ems-capstone-project 
+https://github.com/engripaye/ems-capstone-project 
   
 
 - 🌱 I’m currently working with SpringBoot, API, testing, & Software Engineering  
@@ -109,11 +109,11 @@ https://github.com/IpayeBabatunde/ems-capstone-project
 ## Github Stats  
 <table><tr><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api?username=IpayeBabatunde&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api?username=engripaye&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
 
 </td><td valign="top" width="50%">
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=IpayeBabatunde&hide_border=true&layout=compact" align="left" style="width: 100%" />
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=engripaye&hide_border=true&layout=compact" align="left" style="width: 100%" />
 
 </td></tr></table>  
 
