@@ -51,7 +51,8 @@ https://github.com/engripaye/ems-capstone-project
 </td><td valign="top" width="50%">
 
 <div align="center">
-<img src="https://ipaye.my.canva.site/productdesign" align="center" style="width: 100%" />
+<img src="![image](https://github.com/user-attachments/assets/cddd6fbc-424d-4559-b42c-f6b6777e271b)
+" align="center" style="width: 100%" />
 </div>  
 
 
