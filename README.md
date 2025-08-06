@@ -1,6 +1,6 @@
 
 
-### Devops Engineer 🔁☁️☕
+### Devops Engineer ⚙️👨‍💻☕
 ## **Hello 😊👋, I'm Olabowale Babatunde Ipaye, A full-time Devops Engineer / Java Software Architect 👨‍💻 I love Solving Technology related Problems 🧠✅⚙️**  
   
 
