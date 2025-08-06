@@ -1,7 +1,7 @@
 
 
 ### Devops Engineer ⚙️👨‍💻☕
-## **Hello 😊👋, I'm Olabowale Babatunde Ipaye, A full-time Devops Engineer / Java Software Architect 👨‍💻 I love Solving Technology related Problems 🧠✅⚙️**  
+## **Hello World 😊👋, I'm Olabowale Babatunde Ipaye, A full-time Devops Engineer / Java Software Architect 👨‍💻 I love Solving Technology related Problems 🧠✅⚙️**  
   
 
 <a href="https://twitter.com/engripaye1" target="_blank">
@@ -39,13 +39,13 @@ I specialize in spring boot, testing and software development, designing ci-cd p
 https://github.com/engripaye/ems-capstone-project 
   
 
-- 🌱 I’m currently working with SpringBoot, API, testing, & Software Engineering  
+- 🌱 I’m currently working with SpringBoot, API-testing, Oauth2 Security, Spring Ai, Devops  
   
 
-- ❓ Ask me about anything related to Data Engineering and SpringBoot  
+- ❓ Ask me about anything related to Java, SpringBoot and Devops
   
 
-- ⚡ Fun fact: I keep night shift swithed on at all times   
+- ⚡ Fun fact: I keep night shift swithed on at all times and I'm always active 😊
 
 
 </td><td valign="top" width="50%">
