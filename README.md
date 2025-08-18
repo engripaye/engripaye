@@ -1,6 +1,6 @@
 
 
-### Devops Engineer | ENGR. IPAYE ⚙️👨‍💻☕
+### Devops / Back-End Software Engineer | ENGR. IPAYE ⚙️👨‍💻☕
 ## **Hello World 😊👋, I'm Olabowale Babatunde Ipaye, A full-time Devops Engineer / Java Software Architect 👨‍💻 I love Solving Technology related Problems 🧠✅⚙️**  
   
 
@@ -24,7 +24,7 @@
 
 
 ### Glad to see you here!  
-I’m a Devops Engineer, Java Software Architect who has turned years of freelancing into a full-time career. Being a back-end allows me to not only develop client-facing apps and websites but also develop it with cutting edge backend support with strong passion for automating and streamlining development, deployment, and infastructure management.
+I’m a Devops / Back-End Software Engineer, Java Software Architect who has turned years of freelancing into a full-time career. Being a back-end allows me to not only develop client-facing apps and websites but also develop it with cutting edge backend support with strong passion for automating and streamlining development, deployment, and infastructure management.
 
 I specialize in spring boot, testing and software development, designing ci-cd pipelines, managing cloud-native architectures using tools like docker and kubernetes, and implementing infastructure as code using Terraform and Ansible. I love designing systems that are light yet powerful, distributed yet synchronized and beautiful yet effective. I also frequently blog about the world behind the screen which involves system designs, databases, security, servers, optimisation and also promising technologies like Blockchain and PWAs.  
   
