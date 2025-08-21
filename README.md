@@ -2,8 +2,25 @@
   
   <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Engr%20Ipaye%20Babatunde&fontSize=50&fontColor=00d4ff&animation=twinkling&fontAlignY=35&desc=Java%20Architect%20•%20Spring%20Boot%20•%20Software%20Engineer&descSize=20&descAlignY=55" />  
 
-  **<h3 align="left">Connect with me:</h3>** 
-<p align="left"><a href="https://github.com/engripaye" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/engripayebabatunde" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a></p>
+**<h3 align="left">Connect with me🙂🤝:</h3>** 
+<p align="left">
+  <a href="https://github.com/engripaye" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px">
+  </a>
+  <a href="https://www.linkedin.com/in/engripayebabatunde" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px">
+  </a>
+  <a href="https://twitter.com/engripaye1" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="28" style="margin-right: 4px">
+  </a>
+  <a href="https://dev.to/engripaye" target="_blank">
+    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" height="28" style="margin-right: 4px">
+  </a>
+  <a href="https://www.instagram.com/engripaye1" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28" style="margin-right: 4px">
+  </a>
+</p>
+
   
   <div style="display: flex; justify-content: center; gap: 20px; margin: 30px 0;">
     <img height="190" src="https://github-readme-stats.vercel.app/api?username=engripaye&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=false" />
