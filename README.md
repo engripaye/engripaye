@@ -1,6 +1,6 @@
 <div align="center">  
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Ipaye%20Babatunde&fontSize=50&fontColor=00d4ff&animation=twinkling&fontAlignY=35&desc=Java%20•%20Spring%20Boot%20•%20Fullstack%20Developer&descSize=20&descAlignY=55" />  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=ENGR%20IPAYE%20BABATUNDE&fontSize=45&fontColor=00d4ff&animation=twinkling&fontAlignY=35&desc=JAVA%20SPRINGBOOT%20SOFTWARE%20%26%20DEVOPS%20ENGINEER&descSize=20&descAlignY=55" />  
   
   <div style="display: flex; justify-content: center; gap: 20px; margin: 30px 0;">
     <img height="190" src="https://github-readme-stats.vercel.app/api?username=engripaye&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=1&bg_color=0d1117&border_color=00d4ff&title_color=00d4ff&text_color=ffffff&icon_color=ff6b6b&ring_color=00d4ff&fire_color=ff6b6b&currStreakNum=00d4ff&currStreakLabel=00d4ff&sideNums=00d4ff&sideLabels=ffffff&dates=8cc8ff&hide_border=false&border_radius=15" />
@@ -47,11 +47,11 @@
   <img src="https://komarev.com/ghpvc/?username=engripaye&style=for-the-badge&color=00d4ff&cache_seconds=1" />  
   
   <p style="color: #00d4ff; font-family: 'Courier New', monospace; margin-top: 10px; font-size: 14px;">
-    ⚡ Powered by Java & Spring Boot ⚡
+    ⚡ Powered by Java, Spring Boot & DevOps ⚡
   </p>
 
   <p style="color: #8cc8ff; font-family: 'Courier New', monospace; font-size: 13px; margin-top: -5px;">
-    Made with ❤️ by <strong>Ipaye Babatunde</strong> &copy; 2025
+    Made with ❤️ by <strong>ENGR IPAYE BABATUNDE</strong> &copy; 2025
   </p>
 
 </div>
