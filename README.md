@@ -9,7 +9,7 @@
 <h1 align="center">
   👋 Hi, my name is  
   <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=33F75A&center=true&vCenter=true&width=600&lines=ENGR.+IPAYE+Babatunde" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=33F75A&center=true&vCenter=true&width=600&lines=ENGR.+IPAYE+BABATUNDE" alt="Typing SVG" />
 </h1>
 
 **<h3 align="left">Connect with me:</h3>** 
