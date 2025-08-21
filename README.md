@@ -1,15 +1,16 @@
+<!-- Header Image -->
 ![👋 Hi, my name is Ipaye Babatunde](./github-header-image.png)
 
-![Profile views](https://komarev.com/ghpvc/?username=dbunt1tled&label=Profile%20views&color=0e75b6&style=flat) [![committers.top Ukraine](https://user-badge.committers.top/ukraine/dbunt1tled.svg)](https://user-badge.committers.top/ukraine/dbunt1tled)
-<div id="toc">
-  <ul align="center" style="list-style: none">
-    <summary>
-      <h1>
-        👋 Hi my name is <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=33F75A&center=true&vCenter=true&width=435&lines=ENGR. IPAYE" alt="Typing SVG" />
-      </h1>
-    </summary>
-  </ul>
-</div>
+<!-- Badges -->
+![Profile views](https://komarev.com/ghpvc/?username=dbunt1tled&label=Profile%20views&color=0e75b6&style=flat) 
+[![committers.top Ukraine](https://user-badge.committers.top/ukraine/dbunt1tled.svg)](https://user-badge.committers.top/ukraine/dbunt1tled)
+
+<!-- Typing SVG -->
+<h1 align="center">
+  👋 Hi, my name is  
+  <br/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=33F75A&center=true&vCenter=true&width=600&lines=ENGR.+IPAYE+Babatunde" alt="Typing SVG" />
+</h1>
 
 **<h3 align="left">Connect with me:</h3>** 
 <p align="left"><a href="https://github.com/engripaye" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/engripayebabatunde-balagov-2bab35172" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a></p>
