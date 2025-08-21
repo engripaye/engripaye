@@ -28,7 +28,6 @@
 
 ---
 ## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /> My Recent Projects 
-
  1. [Vet management system](https://vet-management-system.vercel.app/)
  2. [Movies website](https://react-movies-lac.vercel.app/)
  3. [Photo search gallery](https://next-gallery-johnmwendwa.vercel.app/)
