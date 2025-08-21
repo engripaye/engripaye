@@ -7,7 +7,7 @@
     <img src="https://skillicons.dev/icons?i=java,idea,python,pycharm,js,ts,react,nextjs,nestjs,nodejs,spring,hibernate,mysql,postgres,mongodb" />
   </a>
 </p>
-**<h3 align="left">Connect with me🙂🤝:</h3>** 
+<h3 align="left">Connect with me🙂🤝:</h3>
 <p align="left">
   <a href="https://github.com/engripaye" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px">
