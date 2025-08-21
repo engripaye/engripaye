@@ -74,6 +74,9 @@
   <p style="color: #00d4ff; font-family: 'Courier New', monospace; margin-top: 10px; font-size: 14px;">
     ⚡ Powered by Java & Spring Boot ⚡
   </p>
+ 
+  ### ✍️ Random Dev Quote
+![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
 
   <p style="color: #8cc8ff; font-family: 'Courier New', monospace; font-size: 13px; margin-top: -5px;">
     Made with ❤️ by <strong>Ipaye Babatunde</strong> &copy; 2025
