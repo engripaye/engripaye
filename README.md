@@ -1,6 +1,6 @@
 <div align="center">  
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Ipaye%20Babatunde&fontSize=50&fontColor=00d4ff&animation=twinkling&fontAlignY=35&desc=Java%20•%20Spring%20Boot%20•%20Fullstack%20Developer&descSize=20&descAlignY=55" />  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=ENGR.%20IPAYE &fontSize=50&fontColor=00d4ff&animation=twinkling&fontAlignY=35&desc=Java%20•%20Spring%20Boot%20•%20Devops/Software%20Developer&descSize=20&descAlignY=55" />  
   
   <div style="display: flex; justify-content: center; gap: 20px; margin: 30px 0;">
     <img height="190" src="https://github-readme-stats.vercel.app/api?username=engripaye&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=1&bg_color=0d1117&border_color=00d4ff&title_color=00d4ff&text_color=ffffff&icon_color=ff6b6b&ring_color=00d4ff&fire_color=ff6b6b&currStreakNum=00d4ff&currStreakLabel=00d4ff&sideNums=00d4ff&sideLabels=ffffff&dates=8cc8ff&hide_border=false&border_radius=15" />
