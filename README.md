@@ -27,29 +27,6 @@
 </p>
 
 ---
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /> My Recent Projects 
- 1. [Vet management system](https://vet-management-system.vercel.app/)
- 2. [Movies website](https://react-movies-lac.vercel.app/)
- 3. [Photo search gallery](https://next-gallery-johnmwendwa.vercel.app/)
- 4. [Time tracking dashboard](https://johnmwendwa.github.io/time-tracking-dashboard/)
- 5. [Positivus Landing Page](https://positivus-blond-six.vercel.app/)
- 6. [Blog for all developers](https://developers-home.vercel.app/)
- 7. [Multi-step form](https://johnmwendwa.github.io/advanced-multi-step-form/)
- 8. [Age Calculator](https://johnmwendwa.github.io/age-calculator/)
- 9. [Expenses chart component](https://johnmwendwa.github.io/expenses-chart-component/)
- 10. [Advice generator app](https://johnmwendwa.github.io/advice-generator-app/)
- 11. [Huddle Landing page](https://johnmwendwa.github.io/huddle-landing-page/)
- 12. [Huddle Landing page with alternating feature blocks](https://johnmwendwa.github.io/huddle-landing-page-with-alternating-feature-blocks/)
- 13. [Fylo Landing Page](https://johnmwendwa.github.io/fylo-landing-page-with-two-column-layout/)
- 14. [Clipboard Landing Page](https://johnmwendwa.github.io/clipboard-landing-page/)
- 15. [Pricing component with toggle](https://johnmwendwa.github.io/pricing-component-with-toggle)
- 16. [Blogr Landing Page](https://johnmwendwa.github.io/blogr-landing-page/)
- 17. [Social proof section](https://johnmwendwa.github.io/social-proof-section/)
- 18. [Blog preview card](https://johnmwendwa.github.io/blog-preview-card)
- 19. [Social profile card](https://johnmwendwa.github.io/social-profile-card/)
- 20. [Four card feature section](https://johnmwendwa.github.io/four-card-feature-section)
----
-  
   <div style="display: flex; justify-content: center; gap: 20px; margin: 30px 0;">
     <img height="190" src="https://github-readme-stats.vercel.app/api?username=engripaye&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=false" />
     <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=engripaye&layout=compact&langs_count=12&theme=radical&cache_seconds=1&bg_color=0d1117&border_color=00d4ff&title_color=00d4ff&text_color=ffffff&hide_border=false&border_radius=15&card_width=320" />
@@ -63,7 +40,7 @@
 
 <div align="center">
   
-## 🚀 Featured Projects  
+## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /> Featured Projects  
   
   <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(400px, 1fr)); gap: 20px; margin: 20px 0;">
     <a href="https://github.com/engripaye/complete-iam-system">
