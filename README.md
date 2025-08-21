@@ -2,7 +2,7 @@
 ![👋 Hi, my name is Ipaye Babatunde](./github-header-image.png)
 <!-- Badges -->
 ![Profile views](https://komarev.com/ghpvc/?username=engripaye&label=Profile%20views&color=0e75b6&style=flat)
-[![committers.top Ukraine](https://user-badge.committers.top/ukraine/dbunt1tled.svg)](https://user-badge.committers.top/ukraine/dbunt1tled)
+[![committers.top Nigeria](https://user-badge.committers.top/nigeria/engripaye.svg)](https://user-badge.committers.top/nigeria/engripaye)
 
 
 <!-- Typing SVG -->
