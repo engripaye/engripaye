@@ -68,11 +68,11 @@ I specialize in spring boot, testing and software development, designing ci-cd p
 
 <p align="left">
 <a href="https://github.com/engripaye/secure-internal-admin-portal"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=engripaye&repo=secure-internal-admin-portal&bg_color=35%2C2dd4bf%2C784BA0%2C2B86C5&show_owner=true&title_color=fff&text_color=fff&icon_color=fff" alt="GitHub repo-card Card" /></a>
-  <a href="https://github.com/engripaye/python-todo-cli"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=engripaye&repo=python-todo-cli&bg_color=35%2C2dd4bf%2C784BA0%2C2B86C5&show_owner=true&title_color=fff&text_color=fff&icon_color=fff" alt="GitHub repo-card Card" /></a>
+  <a href="https://github.com/engripaye/secure-oauth2-third-party-integration "><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=engripaye&repo=secure-oauth2-third-party-integration&bg_color=35%2C2dd4bf%2C784BA0%2C2B86C5&show_owner=true&title_color=fff&text_color=fff&icon_color=fff" alt="GitHub repo-card Card" /></a>
 </p>
 
 <p align="left">
-<a href="https://github.com/engripaye/php-todo-app"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=engripaye&repo=php-todo-app&bg_color=35%2C2dd4bf%2C784BA0%2C2B86C5&show_owner=true&title_color=fff&text_color=fff&icon_color=fff" alt="GitHub repo-card Card" /></a>
+<a href="https://github.com/engripaye/java-docker-ansible-terraform-appl"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=engripaye&repo=java-docker-ansible-terraform-appl&bg_color=35%2C2dd4bf%2C784BA0%2C2B86C5&show_owner=true&title_color=fff&text_color=fff&icon_color=fff" alt="GitHub repo-card Card" /></a>
   <a href="https://github.com/engripaye/opening-learning-platform-for-communities"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=engripaye&repo=opening-learning-platform-for-communities&bg_color=35%2C2dd4bf%2C784BA0%2C2B86C5&show_owner=true&title_color=fff&text_color=fff&icon_color=fff" alt="GitHub repo-card Card" /></a>
 </p>
 
