@@ -13,7 +13,24 @@
 </h1>
 
 **<h3 align="left">Connect with me:</h3>** 
-<p align="left"><a href="https://github.com/engripaye" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/engripayebabatunde-balagov-2bab35172" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a></p>
+<p align="left">
+  <a href="https://github.com/engripaye" target="_blank">
+    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px">
+  </a>
+  <a href="https://www.linkedin.com/in/engripayebabatunde-balagov-2bab35172" target="_blank">
+    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px">
+  </a>
+  <a href="https://dev.to/engripaye" target="_blank">
+    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" height="28" style="margin-right: 4px">
+  </a>
+  <a href="https://twitter.com/engripaye1" target="_blank">
+    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="28" style="margin-right: 4px">
+  </a>
+  <a href="https://instagram.com/engripaye1" target="_blank">
+    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28" style="margin-right: 4px">
+  </a>
+</p>
+
 
  **<h3 align="left">🚀 I’m a Devops / Software Engineer, Java Architect who has turned years of freelancing into a full-time career. Being a back-end allows me to not only develop client-facing apps and websites but also develop it with cutting edge backend support with strong passion for automating and streamlining development, deployment, and infastructure management.
 
