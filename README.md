@@ -4,7 +4,7 @@
   
   <p align="center">
   <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,idea,python,springboot,js,ts,react,nextjs,nestjs,nodejs,spring,hibernate,mysql,postgres,mongodb" />
+    <img src="https://skillicons.dev/icons?i=java,idea,python,php,js,ts,react,nextjs,nestjs,nodejs,spring,hibernate,mysql,postgres,mongodb" />
   </a>
 </p>
 <h3 align="left">Connect with me🙂🤝:</h3>
