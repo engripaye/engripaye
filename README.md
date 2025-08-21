@@ -1,95 +1,57 @@
-<!-- Header Image -->
-![👋 Hi, my name is Ipaye Babatunde](./github-header-image.png)
-<!-- Badges -->
-![Profile views](https://komarev.com/ghpvc/?username=engripaye&label=Profile%20views&color=0e75b6&style=flat)
-[![committers.top Nigeria](https://user-badge.committers.top/nigeria/engripaye.svg)](https://user-badge.committers.top/nigeria/engripaye)
-
-
-<!-- Typing SVG -->
-<h1 align="center">
-  👋 Hi, my name is  
-  <br/>
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=33F75A&center=true&vCenter=true&width=600&lines=ENGR.+IPAYE+BABATUNDE" alt="Typing SVG" />
-</h1>
-
-**<h3 align="left">Connect with me:</h3>** 
-<p align="left">
-  <a href="https://github.com/engripaye" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px">
-  </a>
-  <a href="https://www.linkedin.com/in/engripayebabatunde-balagov-2bab35172" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px">
-  </a>
-  <a href="https://dev.to/engripaye" target="_blank">
-    <img src="https://img.shields.io/badge/dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" height="28" style="margin-right: 4px">
-  </a>
-  <a href="https://twitter.com/engripaye1" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="28" style="margin-right: 4px">
-  </a>
-  <a href="https://instagram.com/engripaye1" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28" style="margin-right: 4px">
-  </a>
-</p>
-
-
- **<h3 align="left">🚀 I’m a Devops / Software Engineer, Java Architect who has turned years of freelancing into a full-time career. Being a back-end allows me to not only develop client-facing apps and websites but also develop it with cutting edge backend support with strong passion for automating and streamlining development, deployment, and infastructure management.
-
-I specialize in spring boot, testing and software development, designing ci-cd pipelines, managing cloud-native architectures using tools like docker and kubernetes, and implementing infastructure as code using Terraform and Ansible. I love designing systems that are light yet powerful, distributed yet synchronized and beautiful yet effective. I also frequently blog about the world behind the screen which involves system designs, databases, security, servers, optimisation and also promising technologies like Blockchain and PWAs.</h3>**
-
-**<h3 align="left">Rapid Fire</h3>**
-
-- 💼 I'm currently working on: **💻 Oauth2 Security & Spring Ai**
-- 🌱 I'm currently learning: **☕ Java**, **🐍 Python**, **🐹 GoLang**
-- 💬 Ask me about: **💡 Java, SpringBoot, Docker, Kubernetes, Oauth2 Security and REST APIs**
-- ⚡ Fun fact: **🚆 I once debugged a issue i thought i never could all by myself without the help of Ai**
-
- **<h3 align="left">Skills</h3>**
-
-<div style="display: flex; flex-wrap: wrap; gap: 6px; justify-content: left;">
-
-  <!-- Java & Spring -->
-  <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" height="32" alt="Java">
-  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white" height="32" alt="Spring Boot">
-  <img src="https://img.shields.io/badge/Microservices-FF6F00?logo=cloudbees&logoColor=white" height="32" alt="Microservices">
-
-  <!-- Containers -->
-  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" height="32" alt="Docker">
-  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" height="32" alt="Kubernetes">
-
-  <!-- Languages -->
-  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" height="32" alt="Python">
-  <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" height="32" alt="Go">
-  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" height="32" alt="PHP">
-  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" height="32" alt="TypeScript">
-
-  <!-- Frameworks -->
-  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" height="32" alt="Next.js">
-  <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" height="32" alt="Prisma">
-
-  <!-- Databases -->
-  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="32" alt="MySQL">
-  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" height="32" alt="PostgreSQL">
-
-  <!-- APIs -->
-  <img src="https://img.shields.io/badge/REST_API-02569B?logo=fastapi&logoColor=white" height="32" alt="REST APIs">
-
+<div align="center">  
+  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Ipaye%20Babatunde&fontSize=50&fontColor=00d4ff&animation=twinkling&fontAlignY=35&desc=Java%20•%20Spring%20Boot%20•%20Fullstack%20Developer&descSize=20&descAlignY=55" />  
+  
+  <div style="display: flex; justify-content: center; gap: 20px; margin: 30px 0;">
+    <img height="190" src="https://github-readme-stats.vercel.app/api?username=engripaye&show_icons=true&theme=radical&include_all_commits=true&count_private=true&cache_seconds=1&bg_color=0d1117&border_color=00d4ff&title_color=00d4ff&text_color=ffffff&icon_color=ff6b6b&ring_color=00d4ff&fire_color=ff6b6b&currStreakNum=00d4ff&currStreakLabel=00d4ff&sideNums=00d4ff&sideLabels=ffffff&dates=8cc8ff&hide_border=false&border_radius=15" />
+    <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=engripaye&layout=compact&langs_count=12&theme=radical&cache_seconds=1&bg_color=0d1117&border_color=00d4ff&title_color=00d4ff&text_color=ffffff&hide_border=false&border_radius=15&card_width=320" />
+  </div>  
+  
+  <img height="200" src="https://github-readme-streak-stats.herokuapp.com?user=engripaye&theme=radical&cache_seconds=1&background=0d1117&border=00d4ff&stroke=00d4ff&ring=ff6b6b&fire=ff6b6b&currStreakNum=00d4ff&sideNums=00d4ff&currStreakLabel=00d4ff&sideLabels=ffffff&dates=8cc8ff&excludeDaysLabel=666666" />
+  
 </div>
 
+---
 
- **<h3 align="left">GitHub Stats</h3>**
+<div align="center">
+  
+## 🚀 Featured Projects  
+  
+  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(400px, 1fr)); gap: 20px; margin: 20px 0;">
+    <a href="https://github.com/engripaye/python-todo-cli">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=engripaye&repo=python-todo-cli&theme=radical&show_owner=true&cache_seconds=1&bg_color=0d1117&border_color=00d4ff&title_color=00d4ff&text_color=ffffff&icon_color=ff6b6b&hide_border=false&border_radius=15" />
+    </a>
+    <a href="https://github.com/engripaye/decentralized-digital-identity-wallet">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=engripaye&repo=decentralized-digital-identity-wallet&theme=radical&show_owner=true&cache_seconds=1&bg_color=0d1117&border_color=00d4ff&title_color=00d4ff&text_color=ffffff&icon_color=ff6b6b&hide_border=false&border_radius=15" />
+    </a>
+  </div>  
+  
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=engripaye&theme=radical&cache_seconds=1" />
+  
+</div>
 
-<p align="left">
-  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=engripaye&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
-  <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=engripaye&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
-</p>
+---
 
-<p align="left">
-<a href="https://github.com/engripaye/secure-internal-admin-portal"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=engripaye&repo=secure-internal-admin-portal&bg_color=35%2C2dd4bf%2C784BA0%2C2B86C5&show_owner=true&title_color=fff&text_color=fff&icon_color=fff" alt="GitHub repo-card Card" /></a>
-  <a href="https://github.com/engripaye/secure-oauth2-third-party-integration "><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=engripaye&repo=secure-oauth2-third-party-integration&bg_color=35%2C2dd4bf%2C784BA0%2C2B86C5&show_owner=true&title_color=fff&text_color=fff&icon_color=fff" alt="GitHub repo-card Card" /></a>
-</p>
+<div align="center">
+  
+## 🏆 Trophies & Achievements  
 
-<p align="left">
-<a href="https://github.com/engripaye/java-docker-ansible-terraform-appl"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=engripaye&repo=java-docker-ansible-terraform-appl&bg_color=35%2C2dd4bf%2C784BA0%2C2B86C5&show_owner=true&title_color=fff&text_color=fff&icon_color=fff" alt="GitHub repo-card Card" /></a>
-  <a href="https://github.com/engripaye/opening-learning-platform-for-communities"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=engripaye&repo=opening-learning-platform-for-communities&bg_color=35%2C2dd4bf%2C784BA0%2C2B86C5&show_owner=true&title_color=fff&text_color=fff&icon_color=fff" alt="GitHub repo-card Card" /></a>
-</p>
+<img src="https://github-profile-trophy.vercel.app/?username=engripaye&theme=radical&no-frame=false&no-bg=false&margin-w=10&margin-h=10&row=1&column=7&trophies=Stars,Followers,Commits,Repositories,PullRequest,Languages,MVP,Sponsors,Supporter,Hacktoberfest,GitHubActions" />
 
+---
+
+<div align="center">  
+
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=twinkling" />  
+
+  <img src="https://komarev.com/ghpvc/?username=engripaye&style=for-the-badge&color=00d4ff&cache_seconds=1" />  
+  
+  <p style="color: #00d4ff; font-family: 'Courier New', monospace; margin-top: 10px; font-size: 14px;">
+    ⚡ Powered by Java & Spring Boot ⚡
+  </p>
+
+  <p style="color: #8cc8ff; font-family: 'Courier New', monospace; font-size: 13px; margin-top: -5px;">
+    Made with ❤️ by <strong>Ipaye Babatunde</strong> &copy; 2025
+  </p>
+
+</div>
