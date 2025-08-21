@@ -1,140 +1,75 @@
+![👋 Hi, my name is Ipaye Babatunde](./github-header-image.png)
 
+![Profile views](https://komarev.com/ghpvc/?username=dbunt1tled&label=Profile%20views&color=0e75b6&style=flat) [![committers.top Ukraine](https://user-badge.committers.top/ukraine/dbunt1tled.svg)](https://user-badge.committers.top/ukraine/dbunt1tled)
+<div id="toc">
+  <ul align="center" style="list-style: none">
+    <summary>
+      <h1>
+        👋 Hi my name is <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&size=40&pause=1000&color=33F75A&center=true&vCenter=true&width=435&lines=ENGR. IPAYE" alt="Typing SVG" />
+      </h1>
+    </summary>
+  </ul>
+</div>
 
-### Devops / Software Engineer | ENGR. IPAYE ⚙️👨‍💻☕
-## **Hello World 😊👋, I'm Olabowale Babatunde Ipaye, A full-time Devops / Software Engineer + Java Architect 👨‍💻 I love Solving Technology related Problems 🧠✅⚙️**  
-  
+**<h3 align="left">Connect with me:</h3>** 
+<p align="left"><a href="https://github.com/engripaye" target="_blank"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px"></a> <a href="https://www.linkedin.com/in/engripayebabatunde-balagov-2bab35172" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px"></a></p>
 
-<a href="https://twitter.com/engripaye1" target="_blank">
-<img src=https://img.shields.io/badge/twitter-%2300acee.svg?&style=for-the-badge&logo=twitter&logoColor=white alt=twitter style="margin-bottom: 5px;" />
-</a>
-<a href="https://dev.to/engripaye" target="_blank">
-<img src=https://img.shields.io/badge/dev.to-%2308090A.svg?&style=for-the-badge&logo=dev.to&logoColor=white alt=devto style="margin-bottom: 5px;" />
-</a>
-<a href="https://linkedin.com/in/engripayebabatunde" target="_blank">
-<img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
-</a>
-<a href="https://instagram.com/engripaye1" target="_blank">
-<img src=https://img.shields.io/badge/instagram-%23000000.svg?&style=for-the-badge&logo=instagram&logoColor=white alt=instagram style="margin-bottom: 5px;" />
-</a>
-<a href="https://github.com/engripaye" target="_blank">
-<img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
-</a>  
-  
+ **<h3 align="left">🚀 I’m a Devops / Software Engineer, Java Architect who has turned years of freelancing into a full-time career. Being a back-end allows me to not only develop client-facing apps and websites but also develop it with cutting edge backend support with strong passion for automating and streamlining development, deployment, and infastructure management.
 
+I specialize in spring boot, testing and software development, designing ci-cd pipelines, managing cloud-native architectures using tools like docker and kubernetes, and implementing infastructure as code using Terraform and Ansible. I love designing systems that are light yet powerful, distributed yet synchronized and beautiful yet effective. I also frequently blog about the world behind the screen which involves system designs, databases, security, servers, optimisation and also promising technologies like Blockchain and PWAs.</h3>**
 
+**<h3 align="left">Rapid Fire</h3>**
 
-### Glad to see you here!  
-I’m a Devops / Software Engineer, Java Architect who has turned years of freelancing into a full-time career. Being a back-end allows me to not only develop client-facing apps and websites but also develop it with cutting edge backend support with strong passion for automating and streamlining development, deployment, and infastructure management.
+- 💼 I'm currently working on: **💻 Oauth2 Security & Spring Ai**
+- 🌱 I'm currently learning: **☕ Java**, **🐍 Python**, **🐹 GoLang**
+- 💬 Ask me about: **💡 Java, SpringBoot, Docker, Kubernetes, Oauth2 Security and REST APIs**
+- ⚡ Fun fact: **🚆 I once debugged a issue i thought i never could all by myself without the help of Ai**
 
-I specialize in spring boot, testing and software development, designing ci-cd pipelines, managing cloud-native architectures using tools like docker and kubernetes, and implementing infastructure as code using Terraform and Ansible. I love designing systems that are light yet powerful, distributed yet synchronized and beautiful yet effective. I also frequently blog about the world behind the screen which involves system designs, databases, security, servers, optimisation and also promising technologies like Blockchain and PWAs.  
-  
+ **<h3 align="left">Skills</h3>**
 
-<br/>  
+<div style="display: flex; flex-wrap: wrap; gap: 6px; justify-content: left;">
 
+  <!-- Java & Spring -->
+  <img src="https://img.shields.io/badge/Java-ED8B00?logo=openjdk&logoColor=white" height="32" alt="Java">
+  <img src="https://img.shields.io/badge/Spring_Boot-6DB33F?logo=springboot&logoColor=white" height="32" alt="Spring Boot">
+  <img src="https://img.shields.io/badge/Microservices-FF6F00?logo=cloudbees&logoColor=white" height="32" alt="Microservices">
 
-## Rapidfire  
-<table><tr><td valign="top" width="50%">
+  <!-- Containers -->
+  <img src="https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white" height="32" alt="Docker">
+  <img src="https://img.shields.io/badge/Kubernetes-326CE5?logo=kubernetes&logoColor=white" height="32" alt="Kubernetes">
 
-- 🔭 I’m currently working on [Employee System Management(Capstone Project)]
-https://github.com/engripaye/ems-capstone-project 
-  
+  <!-- Languages -->
+  <img src="https://img.shields.io/badge/Python-3776AB?logo=python&logoColor=white" height="32" alt="Python">
+  <img src="https://img.shields.io/badge/Go-00ADD8?logo=go&logoColor=white" height="32" alt="Go">
+  <img src="https://img.shields.io/badge/PHP-777BB4?logo=php&logoColor=white" height="32" alt="PHP">
+  <img src="https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white" height="32" alt="TypeScript">
 
-- 🌱 I’m currently working with SpringBoot, API-testing, Oauth2 Security, Spring Ai, Devops  
-  
+  <!-- Frameworks -->
+  <img src="https://img.shields.io/badge/Next.js-000000?logo=nextdotjs&logoColor=white" height="32" alt="Next.js">
+  <img src="https://img.shields.io/badge/Prisma-2D3748?logo=prisma&logoColor=white" height="32" alt="Prisma">
 
-- ❓ Ask me about anything related to Java, SpringBoot and Devops
-  
+  <!-- Databases -->
+  <img src="https://img.shields.io/badge/MySQL-4479A1?logo=mysql&logoColor=white" height="32" alt="MySQL">
+  <img src="https://img.shields.io/badge/PostgreSQL-4169E1?logo=postgresql&logoColor=white" height="32" alt="PostgreSQL">
 
-- ⚡ Fun fact: I keep night shift swithed on at all times and I'm always active 😊
+  <!-- APIs -->
+  <img src="https://img.shields.io/badge/REST_API-02569B?logo=fastapi&logoColor=white" height="32" alt="REST APIs">
 
-
-</td><td valign="top" width="50%">
-
-## 🌟 Project Screenshot
-
-<div align="center">
-  <img src="https://github.com/user-attachments/assets/cddd6fbc-424d-4559-b42c-f6b6777e271b" alt="Project Screenshot" width="80%" />
 </div>
 
 
+ **<h3 align="left">GitHub Stats</h3>**
 
-</td></tr></table>  
+<p align="left">
+  <img width="48%" src="https://github-readme-stats.vercel.app/api?username=dbunt1tled&theme=react&hide_title=false&hide_rank=false&show_icons=false&include_all_commits=false&count_private=true&line_height=23" alt="GitHub stats Card" />
+    <img width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=dbunt1tled&theme=react&hide_title=false&layout=compact&langs_count=6&hide_progress=false&card_width=400" alt="GitHub top-langs Card" />
+</p>
 
-<br/>  
-
-
-## Languages and Tools  
-<div align="center">  
-<a href="https://getbootstrap.com/docs/3.4/javascript/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/bootstrap-plain.svg" alt="Bootstrap" height="25" /></a>  
-<a href="https://www.w3schools.com/css/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/css3-original-wordmark.svg" alt="CSS3" height="25" /></a>  
-<a href="https://www.electronjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/electron-original.svg" alt="Electron" height="25" /></a>  
-<a href="https://en.wikipedia.org/wiki/HTML5" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/html5-original-wordmark.svg" alt="HTML5" height="25" /></a>  
-<a href="https://www.javascript.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/javascript-original.svg" alt="JavaScript" height="25" /></a>  
-<a href="https://www.docker.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/docker-original-wordmark.svg" alt="Docker" height="25" /></a>  
-<a href="https://www.typescriptlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/typescript-original.svg" alt="TypeScript" height="25" /></a>  
-<a href="https://www.mysql.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mysql-original-wordmark.svg" alt="MySQL" height="25" /></a>  
-<a href="https://www.mongodb.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/mongodb-original-wordmark.svg" alt="MongoDB" height="25" /></a>  
-<a href="https://kubernetes.io/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kubernetes-icon.svg" alt="Kubernetes" height="25" /></a>  
-<a href="https://www.gnu.org/software/bash/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gnu_bash-icon.svg" alt="Bash" height="25" /></a>  
-<a href="https://www.raspberrypi.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/raspberrypi.png" alt="Raspberry Pi" height="25" /></a>  
-<a href="https://www.elastic.co/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/elasticsearch.png" alt="Elastic Search" height="25" /></a>  
-<a href="https://flask.palletsprojects.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/flask.png" alt="Flask" height="25" /></a>  
-<a href="https://www.apachefriends.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xampp.png" alt="XAMPP" height="25" /></a>  
-<a href="https://github.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/git-scm-icon.svg" alt="Git" height="25" /></a>  
-<a href="https://www.rabbitmq.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/rabbitmq-icon.svg" alt="RabbitMQ" height="25" /></a>  
-<a href="https://wordpress.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/wordpress.png" alt="WordPress" height="25" /></a>  
-<a href="https://graphql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/graphql.png" alt="GraphQL" height="25" /></a>  
-<a href="https://www.ansible.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/ansible.png" alt="Ansible" height="25" /></a>  
-<a href="https://cloud.google.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/google_cloud-icon.svg" alt="GCP" height="25" /></a>  
-<a href="https://www.postgresql.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/postgresql-original-wordmark.svg" alt="PostgreSQL" height="25" /></a>  
-<a href="https://www.java.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/java-original-wordmark.svg" alt="Java" height="25" /></a>  
-<a href="https://kotlinlang.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/kotlinlang-icon.svg" alt="Kotlin" height="25" /></a>  
-<a href="https://kafka.apache.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/apache_kafka-icon.svg" alt="Kafka" height="25" /></a>  
-<a href="https://www.adobe.com/in/products/indesign.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobeindesign.svg" alt="Adobe InDesign" height="25" /></a>  
-<a href="https://www.adobe.com/in/products/illustrator.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobe_illustrator-icon.svg" alt="Illustrator" height="25" /></a>  
-<a href="https://www.figma.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/figma-icon.svg" alt="Figma" height="25" /></a>  
-<a href="https://nodejs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nodejs-original-wordmark.svg" alt="Node.js" height="25" /></a>  
-<a href="https://www.oracle.com/in/index.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/oracle-original.svg" alt="Oracle" height="25" /></a>  
-<a href="https://www.adobe.com/in/products/premiere.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobepremierepro.png" alt="Premiere Pro" height="25" /></a>  
-<a href="https://www.adobe.com/in/products/xd.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/adobexd.png" alt="Adobe XD" height="25" /></a>  
-<a href="https://docs.microsoft.com/en-us/dotnet/desktop/wpf/xaml/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/xaml.png" alt="XAML" height="25" /></a>  
-<a href="https://jquery.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/jquery.png" alt="jQuery" height="25" /></a>  
-<a href="https://about.gitlab.com/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="25" /></a>  
-<a href="https://www.adobe.com/products/photoshop-lightroom.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/lightroom.png" alt="Lightroom" height="25" /></a>  
-<a href="https://www.adobe.com/in/products/aftereffects.html" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/aftereffects.png" alt="After Effects" height="25" /></a>  
-<a href="https://nextjs.org/" target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/nextjs.png" alt="NextJS" height="25" /></a>  
-<a href="https://docs.spring.io/spring-framework/docs/3.0.x/reference/expressions.html#:~:text=The%20Spring%20Expression%20Language%20(SpEL,and%20basic%20string%20templating%20functionality." target="_blank"><img style="margin: 10px" src="https://profilinator.rishav.dev/skills-assets/springio-icon.svg" alt="Spring" height="25" /></a>  
-</div>  
-
-<br/>  
-
-
-## Github Stats  
-<table><tr><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api?username=engripaye&show_icons=true&count_private=true&hide_border=true" align="left" style="width: 100%" />
-
-</td><td valign="top" width="50%">
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=engripaye&hide_border=true&layout=compact" align="left" style="width: 100%" />
-
-</td></tr></table>  
-
-<br/>  
-
-## I'm looking forward to work with Individuals, Companies and Organizations  
-  
-
-<br/>  
-
-![Profile views counter](https://komarev.com/ghpvc/?username=IpayeBabatunde&&style=flat-square)  
-  
-
-<br/>  
-
-
-<br />
-
-----
-<div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
-
+<p align="left">
+<a href="https://github.com/dbunt1tled/nestjs-api"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=dbunt1tled&repo=nestjs-api&bg_color=35%2C2dd4bf%2C784BA0%2C2B86C5&show_owner=true&title_color=fff&text_color=fff&icon_color=fff" alt="GitHub repo-card Card" /></a>
+  <a href="https://github.com/dbunt1tled/python-fast-api"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=dbunt1tled&repo=python-fast-api&bg_color=35%2C2dd4bf%2C784BA0%2C2B86C5&show_owner=true&title_color=fff&text_color=fff&icon_color=fff" alt="GitHub repo-card Card" /></a>
+</p>
+<p align="left">
+<a href="https://github.com/dbunt1tled/go-api"><img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=dbunt1tled&repo=go-api&bg_color=35%2C2dd4bf%2C784BA0%2C2B86C5&show_owner=true&title_color=fff&text_color=fff&icon_color=fff" alt="GitHub repo-card Card" /></a>
+  <a href="https://github.com/dbunt1tled/nestjs-graphql"> <img width="48%" src="https://github-readme-stats.vercel.app/api/pin/?username=dbunt1tled&repo=nestjs-graphql&bg_color=35%2C2dd4bf%2C784BA0%2C2B86C5&show_owner=true&title_color=fff&text_color=fff&icon_color=fff" alt="GitHub repo-card Card" /></a>
+</p>
