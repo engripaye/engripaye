@@ -26,6 +26,7 @@
   </a>
 </p>
 
+---
   
   <div style="display: flex; justify-content: center; gap: 20px; margin: 30px 0;">
     <img height="190" src="https://github-readme-stats.vercel.app/api?username=engripaye&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=false" />
