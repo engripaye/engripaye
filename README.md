@@ -1,5 +1,5 @@
 <!-- Header Image -->
-![👋 Hi, my name is Ipaye Babatunde](./github-header-image.png)
+![👋 Hi, my name is Ipaye Babatunde](https://github.com/engripaye/engripaye/issues/1#issue-3340776838)
 
 <!-- Badges -->
 ![Profile views](https://komarev.com/ghpvc/?username=dbunt1tled&label=Profile%20views&color=0e75b6&style=flat) 
