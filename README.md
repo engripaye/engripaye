@@ -1,6 +1,6 @@
 <div align="center">  
   
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Engr%20Ipaye%20Babatunde&fontSize=50&fontColor=00d4ff&animation=twinkling&fontAlignY=35&desc=Java%20Architect%20•%20Spring%20Boot%20•%20Software%20Engineer&descSize=20&descAlignY=55" />  
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Engr%20Ipaye%20Babatunde&fontSize=50&fontColor=00d4ff&animation=twinkling&fontAlignY=35&desc=Java%20|%20Python%20Architect%20•%20Spring%20Boot%20•%20Software%20Engineer&descSize=20&descAlignY=55" />  
   
   <p align="center">
   <a href="https://skillicons.dev">
