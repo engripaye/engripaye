@@ -46,8 +46,8 @@
     <a href="https://github.com/engripaye/complete-iam-system">
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=engripaye&repo=complete-iam-system&theme=radical&show_owner=true&cache_seconds=1&bg_color=0d1117&border_color=00d4ff&title_color=00d4ff&text_color=ffffff&icon_color=ff6b6b&hide_border=false&border_radius=15" />
     </a>
-    <a href="https://github.com/engripaye/decentralized-digital-identity-wallet">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=engripaye&repo=decentralized-digital-identity-wallet&theme=radical&show_owner=true&cache_seconds=1&bg_color=0d1117&border_color=00d4ff&title_color=00d4ff&text_color=ffffff&icon_color=ff6b6b&hide_border=false&border_radius=15" />
+    <a href="https://github.com/engripaye/chat-based-online-ordering-system-py">
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=engripaye&repo=chat-based-online-ordering-system-py&theme=radical&show_owner=true&cache_seconds=1&bg_color=0d1117&border_color=00d4ff&title_color=00d4ff&text_color=ffffff&icon_color=ff6b6b&hide_border=false&border_radius=15" />
     </a>
   </div>  
   
