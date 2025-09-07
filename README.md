@@ -47,7 +47,7 @@
       <img src="https://github-readme-stats.vercel.app/api/pin/?username=engripaye&repo=complete-iam-system&theme=radical&show_owner=true&cache_seconds=1&bg_color=0d1117&border_color=00d4ff&title_color=00d4ff&text_color=ffffff&icon_color=ff6b6b&hide_border=false&border_radius=15" />
     </a>
     <a href="https://github.com/engripaye/weather-api-wrapper">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=engripaye&repo=weather-api-wrappery&theme=radical&show_owner=true&cache_seconds=1&bg_color=0d1117&border_color=00d4ff&title_color=00d4ff&text_color=ffffff&icon_color=ff6b6b&hide_border=false&border_radius=15" />
+      <img src="https://github-readme-stats.vercel.app/api/pin/?username=engripaye&repo=weather-api-wrapper&theme=radical&show_owner=true&cache_seconds=1&bg_color=0d1117&border_color=00d4ff&title_color=00d4ff&text_color=ffffff&icon_color=ff6b6b&hide_border=false&border_radius=15" />
     </a>
   </div>  
   
