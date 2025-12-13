@@ -7,6 +7,13 @@
     <img src="https://skillicons.dev/icons?i=java,idea,python,php,js,ts,react,nextjs,nestjs,nodejs,spring,hibernate,mysql,postgres,mongodb" />
   </a>
 </p>
+
+<p align="center">
+  <a href="https://user-badge.committers.top/nigeria/engripaye">
+    <img src="https://user-badge.committers.top/nigeria/engripaye.svg" alt="Top GitHub Contributor Nigeria" />
+  </a>
+</p>
+
 <h3 align="left"><img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" /> Connect with me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" align="center" /> </h3>
 <p align="left">
   <a href="https://github.com/engripaye" target="_blank">
