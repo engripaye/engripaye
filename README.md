@@ -91,15 +91,20 @@ Currently focused on:
 
 ## 🏗️ Featured Projects
 
-### 🔐 Complete IAM System
-Enterprise-grade Identity & Access Management platform.
+## 🚀 Featured Projects
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=engripaye&repo=complete-iam-system&theme=radical)](https://github.com/engripaye/complete-iam-system)
+| Project | Description | Stack |
+|----------|-------------|---------|
+| 🔐 Complete IAM System | Enterprise Identity & Access Management Platform | Java, Spring Boot, PostgreSQL |
+| 🕵️ Fraud Intelligence Platform | Real-time Fraud Detection & Monitoring | Java, Kafka, Redis, React |
+| ⚡ Smart Electricity Tracker | Power Outage Reporting & Monitoring System | Spring Boot, React, PostgreSQL |
+| 🌦 Weather API Wrapper | Production-ready Weather Integration Service | Java, REST APIs |
 
-### 🌦️ Weather API Wrapper
-Production-ready weather integration API.
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=engripaye&repo=weather-api-wrapper&theme=radical)](https://github.com/engripaye/weather-api-wrapper)
+<p align="center">
+<a href="https://github.com/engripaye?tab=repositories">
+<img src="https://img.shields.io/badge/View%20All%20Projects-00d4ff?style=for-the-badge"/>
+</a>
+</p>
 
 ---
 
