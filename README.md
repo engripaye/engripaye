@@ -1,92 +1,150 @@
-<div align="center">  
-  
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=200&section=header&text=Engr%20Ipaye%20Babatunde&fontSize=50&fontColor=00d4ff&animation=twinkling&fontAlignY=35&desc=Java%20|%20Python%20Architect%20•%20Spring%20Boot%20•%20Software%20Engineer&descSize=20&descAlignY=55" />  
-  
-  <p align="center">
-  <a href="https://skillicons.dev">
-    <img src="https://skillicons.dev/icons?i=java,idea,python,php,js,ts,react,nextjs,nestjs,nodejs,spring,hibernate,mysql,postgres,mongodb" />
-  </a>
+<div align="center">
+
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=220&section=header&text=Engr%20Ipaye%20Babatunde&fontSize=50&fontColor=00d4ff&animation=twinkling&fontAlignY=35&desc=Software%20Engineer%20•%20Java%20Architect%20•%20Backend%20Specialist&descSize=20&descAlignY=55"/>
+
+<p align="center"> <a href="https://user-badge.committers.top/nigeria/engripaye"> <img src="https://user-badge.committers.top/nigeria/engripaye.svg" alt="Top GitHub Contributor Nigeria" /> </a> </p>
+
+# 👋 Welcome to My GitHub
+
+### Building scalable systems with Java, Spring Boot, Python, Cloud & Modern Web Technologies
+
+<p align="center">
+  <img src="https://komarev.com/ghpvc/?username=engripaye&style=for-the-badge&color=00d4ff" />
+  <img src="https://img.shields.io/github/followers/engripaye?style=for-the-badge&color=00d4ff" />
+  <img src="https://img.shields.io/github/stars/engripaye?style=for-the-badge&color=00d4ff" />
+</p>
+
+</div>
+
+---
+
+## 🚀 About Me
+
+I'm a Software Engineer passionate about building:
+
+- Enterprise Java Applications
+- Scalable Backend Systems
+- Cloud-Native Microservices
+- Fraud Detection Platforms
+- Smart City Solutions
+- AI-Powered Applications
+- REST APIs & Distributed Systems
+
+Currently focused on:
+
+- ☕ Java & Spring Boot
+- 🐍 Python & AI Integrations
+- ⚛️ React & Next.js
+- ☁️ Cloud Architecture
+- 🏗️ System Design
+- 🔐 Security & Identity Management
+
+---
+
+## 🛠️ Tech Stack
+
+<p align="center">
+<img src="https://skillicons.dev/icons?i=java,spring,hibernate,maven,python,react,nextjs,nodejs,nestjs,ts,js,mysql,postgres,mongodb,redis,docker,kubernetes,aws,git,github,idea,vscode" />
+</p>
+
+---
+
+## 🌐 Connect With Me
+
+<p align="center">
+<a href="https://github.com/engripaye">
+<img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white"/>
+</a>
+
+<a href="https://www.linkedin.com/in/engripayebabatunde">
+<img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"/>
+</a>
+
+<a href="https://twitter.com/engripaye1">
+<img src="https://img.shields.io/badge/X-000000?style=for-the-badge&logo=x&logoColor=white"/>
+</a>
+
+<a href="https://dev.to/engripaye">
+<img src="https://img.shields.io/badge/DEV.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white"/>
+</a>
+
+<a href="https://www.instagram.com/engripaye1">
+<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white"/>
+</a>
+</p>
+
+---
+
+## 📊 GitHub Analytics
+
+<p align="center">
+<img height="180" src="https://github-readme-stats.vercel.app/api?username=engripaye&show_icons=true&theme=radical&count_private=true"/>
+
+<img height="180" src="https://github-readme-stats.vercel.app/api/top-langs/?username=engripaye&layout=compact&theme=radical"/>
 </p>
 
 <p align="center">
-  <a href="https://user-badge.committers.top/nigeria/engripaye">
-    <img src="https://user-badge.committers.top/nigeria/engripaye.svg" alt="Top GitHub Contributor Nigeria" />
-  </a>
-</p>
-
-<h3 align="left"><img src="https://user-images.githubusercontent.com/72663882/171687151-bb31c996-c9d2-49c8-b593-734946893b23.gif" alt="waving hand gif" aria-hidden="true" width="40" /> Connect with me <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/Hand%20gestures/Handshake.png" alt="Handshake" width="25" height="25" align="center" /> </h3>
-<p align="left">
-  <a href="https://github.com/engripaye" target="_blank">
-    <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" height="28" style="margin-right: 4px">
-  </a>
-  <a href="https://www.linkedin.com/in/engripayebabatunde" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" height="28" style="margin-right: 4px">
-  </a>
-  <a href="https://twitter.com/engripaye1" target="_blank">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" height="28" style="margin-right: 4px">
-  </a>
-  <a href="https://dev.to/engripaye" target="_blank">
-    <img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" height="28" style="margin-right: 4px">
-  </a>
-  <a href="https://www.instagram.com/engripaye1" target="_blank">
-    <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" height="28" style="margin-right: 4px">
-  </a>
+<img src="https://github-readme-streak-stats.herokuapp.com?user=engripaye&theme=radical"/>
 </p>
 
 ---
-  <div style="display: flex; justify-content: center; gap: 20px; margin: 30px 0;">
-    <img height="190" src="https://github-readme-stats.vercel.app/api?username=engripaye&show_icons=true&theme=radical&include_all_commits=true&count_private=true&hide_border=false" />
-    <img height="190" src="https://github-readme-stats.vercel.app/api/top-langs/?username=engripaye&layout=compact&langs_count=12&theme=radical&cache_seconds=1&bg_color=0d1117&border_color=00d4ff&title_color=00d4ff&text_color=ffffff&hide_border=false&border_radius=15&card_width=320" />
-  </div>  
-  
-  <img height="200" src="https://github-readme-streak-stats.herokuapp.com?user=engripaye&theme=radical&cache_seconds=1&background=0d1117&border=00d4ff&stroke=00d4ff&ring=ff6b6b&fire=ff6b6b&currStreakNum=00d4ff&sideNums=00d4ff&currStreakLabel=00d4ff&sideLabels=ffffff&dates=8cc8ff&excludeDaysLabel=666666" />
-  
-</div>
+
+## 🏗️ Featured Projects
+
+### 🔐 Complete IAM System
+Enterprise-grade Identity & Access Management platform.
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=engripaye&repo=complete-iam-system&theme=radical)](https://github.com/engripaye/complete-iam-system)
+
+### 🌦️ Weather API Wrapper
+Production-ready weather integration API.
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=engripaye&repo=weather-api-wrapper&theme=radical)](https://github.com/engripaye/weather-api-wrapper)
+
+---
+
+## 📈 Contribution Activity
+
+<p align="center">
+<img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=engripaye&theme=radical"/>
+</p>
+
+---
+
+## 🏆 GitHub Achievements
+
+<p align="center">
+<img src="https://github-profile-trophy.vercel.app/?username=engripaye&theme=radical&row=1&column=7"/>
+</p>
+
+---
+
+## 🎯 2026 Goals
+
+- Build production-ready SaaS products
+- Contribute to open source consistently
+- Publish technical articles
+- Advance cloud-native architecture expertise
+- Launch Smart City & Fraud Intelligence platforms
+
+---
+
+## 💡 Favorite Quote
+
+> "First, solve the problem. Then, write the code."
 
 ---
 
 <div align="center">
-  
-## <img src="https://raw.githubusercontent.com/Tarikul-Islam-Anik/Animated-Fluent-Emojis/master/Emojis/People/Technologist.png" alt="Technologist" width="30" height="30" /> Featured Projects  
-  
-  <div style="display: grid; grid-template-columns: repeat(auto-fit, minmax(400px, 1fr)); gap: 20px; margin: 20px 0;">
-    <a href="https://github.com/engripaye/complete-iam-system">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=engripaye&repo=complete-iam-system&theme=radical&show_owner=true&cache_seconds=1&bg_color=0d1117&border_color=00d4ff&title_color=00d4ff&text_color=ffffff&icon_color=ff6b6b&hide_border=false&border_radius=15" />
-    </a>
-    <a href="https://github.com/engripaye/weather-api-wrapper">
-      <img src="https://github-readme-stats.vercel.app/api/pin/?username=engripaye&repo=weather-api-wrapper&theme=radical&show_owner=true&cache_seconds=1&bg_color=0d1117&border_color=00d4ff&title_color=00d4ff&text_color=ffffff&icon_color=ff6b6b&hide_border=false&border_radius=15" />
-    </a>
-  </div>  
-  
-  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=engripaye&theme=radical&cache_seconds=1" />
-  
-</div>
 
----
+### ⚡ Powered by Java, Spring Boot & Innovation ⚡
 
-<div align="center">
-  
-## 🏆 Trophies & Achievements  
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark"/>
 
-<img src="https://github-profile-trophy.vercel.app/?username=engripaye&theme=radical&no-frame=false&no-bg=false&margin-w=10&margin-h=10&row=1&column=7&trophies=Stars,Followers,Commits,Repositories,PullRequest,Languages,MVP,Sponsors,Supporter,Hacktoberfest,GitHubActions" />
+<br><br>
 
----
+<img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer"/>
 
-<div align="center">  
-
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=0,2,2,5,30&height=120&section=footer&animation=twinkling" />  
-
-  <img src="https://komarev.com/ghpvc/?username=engripaye&style=for-the-badge&color=00d4ff&cache_seconds=1" />  
-  
-  <p style="color: #00d4ff; font-family: 'Courier New', monospace; margin-top: 10px; font-size: 14px;">
-    ⚡ Powered by Java & Spring Boot ⚡
-  </p>
- 
-  ### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=dark)
-
-  <p style="color: #8cc8ff; font-family: 'Courier New', monospace; font-size: 13px; margin-top: -5px;">
-    Made with ❤️ by <strong>Ipaye Babatunde</strong> &copy; 2025
-  </p>
+### Made with ❤️ by Engr. Ipaye Babatunde
 
 </div>
