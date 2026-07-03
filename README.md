@@ -20,7 +20,7 @@
 
 ## 🚀 About Me
 
-I'm a Software Engineer passionate about building:
+Micro1 Cerified Backend Engineer passionate about building:
 
 - Enterprise Java Applications
 - Scalable Backend Systems
